@@ -5,15 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/HP/Documents/GitHub/ezash/survival_game/Content/BASE_BUILDING/Building/Buildables/Build_Floor.uasset",
-				"C:/Users/HP/Documents/GitHub/ezash/survival_game/Content/BASE_BUILDING/Building/BuildingInterface.uasset",
-				"C:/Users/HP/Documents/GitHub/ezash/survival_game/Content/BASE_BUILDING/Building/Buildables/Build_Foundation.uasset",
-				"C:/Users/HP/Documents/GitHub/ezash/survival_game/Content/BASE_BUILDING/AC_BUILDCOMPONENT.uasset"
-=======
-				"E:/unreal projects/ss/ezash/survival_game/Content/BASE_BUILDING/Building/BuildableDB.uasset",
-				"E:/unreal projects/ss/ezash/survival_game/Content/BASE_BUILDING/Building/Buildables/window.uasset"
->>>>>>> 5535d710c39eb66074ae758b5392be7abe0af31e
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/BASE_BUILDING/TEXTURES/GreenColor.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/AK/FMMB2MW3VR5XQ5LGO63Z5G.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/Animation/Crouch/crouch_blendspace.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/Animation/Crouch/Crouch.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/Animation/Crouch/CrouchWalk.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/props/tent/m_tent.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/BASE_BUILDING/Building/BuildableDB.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/props/tent/sm_tent.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/BASE_BUILDING/Building/Buildables/tent.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/props/tent/tent_diff128.uasset",
+				"E:/unreal projects/SURVIVAL_GAME/Survival_Concept_M2/survival_game/Content/props/tent/Tent_interaction.uasset"
 			]
 		}
 	]
